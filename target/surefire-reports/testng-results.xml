@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[enter product name]]>
+    </line>
+    <line>
+      <![CDATA[enter qty]]>
+    </line>
+    <line>
+      <![CDATA[enter address]]>
+    </line>
+    <line>
+      <![CDATA[payment through credit card]]>
+    </line>
+    <line>
+      <![CDATA[enter username]]>
+    </line>
+    <line>
+      <![CDATA[enter pwd]]>
+    </line>
+    <line>
+      <![CDATA[click login]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-03-07T18:45:35 IST" name="Suite" finished-at="2023-03-07T18:45:35 IST" duration-ms="45">
+    <groups>
+    </groups>
+    <test started-at="2023-03-07T18:45:35 IST" name="Test" finished-at="2023-03-07T18:45:35 IST" duration-ms="45">
+      <class name="TestNGBasics.TestAnnotation">
+        <test-method signature="testA()[pri:0, instance:TestNGBasics.TestAnnotation@6ff29830]" started-at="2023-03-07T18:45:35 IST" name="testA" finished-at="2023-03-07T18:45:35 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA -->
+      </class> <!-- TestNGBasics.TestAnnotation -->
+      <class name="TestNGBasics.TestAnnotation2">
+        <test-method signature="testA()[pri:0, instance:TestNGBasics.TestAnnotation2@2638011]" started-at="2023-03-07T18:45:35 IST" name="testA" finished-at="2023-03-07T18:45:35 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA -->
+        <test-method signature="testB()[pri:0, instance:TestNGBasics.TestAnnotation2@2638011]" started-at="2023-03-07T18:45:35 IST" name="testB" finished-at="2023-03-07T18:45:35 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testB -->
+      </class> <!-- TestNGBasics.TestAnnotation2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite started-at="2023-03-07T18:45:35 IST" name="Suite (0)" finished-at="2023-03-07T18:45:35 IST" duration-ms="2">
+    <groups>
+    </groups>
+    <test started-at="2023-03-07T18:45:35 IST" name="Test" finished-at="2023-03-07T18:45:35 IST" duration-ms="2">
+      <class name="TestNGReports.Reporting">
+        <test-method signature="createorder()[pri:0, instance:TestNGReports.Reporting@45ca843]" started-at="2023-03-07T18:45:35 IST" name="createorder" finished-at="2023-03-07T18:45:35 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[enter product name]]>
+            </line>
+            <line>
+              <![CDATA[enter qty]]>
+            </line>
+            <line>
+              <![CDATA[enter address]]>
+            </line>
+            <line>
+              <![CDATA[payment through credit card]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createorder -->
+        <test-method signature="testA()[pri:0, instance:TestNGReports.Reporting@45ca843]" started-at="2023-03-07T18:45:35 IST" name="testA" finished-at="2023-03-07T18:45:35 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[enter username]]>
+            </line>
+            <line>
+              <![CDATA[enter pwd]]>
+            </line>
+            <line>
+              <![CDATA[click login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testA -->
+      </class> <!-- TestNGReports.Reporting -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+</testng-results>

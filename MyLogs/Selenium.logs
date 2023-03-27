@@ -1,0 +1,71 @@
+15:41:49,326 DEBUG Ram:28 - loginTC1 starts
+15:41:49,331 DEBUG Ram:29 - 1 open chrome browser
+15:41:49,331 DEBUG Ram:30 - 2 enter username
+15:41:49,331 DEBUG Ram:31 - 3 enter password
+15:41:49,331 DEBUG Ram:32 - 4 click login button
+15:41:49,332 DEBUG Ram:33 - 5 verify homepage is displayed
+17:03:01,748 DEBUG Ram:28 - loginTC1 starts
+17:03:01,752 DEBUG Ram:29 - 1 open chrome browser
+17:03:01,754 DEBUG Ram:30 - 2 enter username
+17:03:01,754 DEBUG Ram:31 - 3 enter password
+17:03:01,754 DEBUG Ram:32 - 4 click login button
+17:03:01,754 DEBUG Ram:33 - 5 verify homepage is displayed
+18:21:29,672 DEBUG Raju:15 - CreateOrder -started
+18:21:29,678 DEBUG Raju:16 - 1 open chrome browser
+18:21:29,678 DEBUG Raju:17 - 2 enter username
+18:21:29,678 DEBUG Raju:18 - 3 enter password
+18:21:29,678 DEBUG Raju:19 - 4 click login button
+18:21:29,678 DEBUG Raju:20 - 5 verify homepage is displayed
+18:21:29,679 DEBUG Raju:22 - 6 search for product
+18:21:29,679 DEBUG Raju:23 - 7 add qty
+18:21:29,679 DEBUG Raju:24 - 8 add to cart and proceed with payment
+18:21:29,679  INFO Raju:25 - info msg
+18:21:29,680 ERROR Raju:26 - logging error msgs
+18:30:09,224 DEBUG Ram:13 - loginTC1 starts
+18:30:09,228 DEBUG Ram:14 - 1 open chrome browser
+18:30:09,228 DEBUG Ram:15 - 2 enter username
+18:30:09,228 DEBUG Ram:16 - 3 enter password
+18:30:09,228 DEBUG Ram:17 - 4 click login button
+18:30:09,229 DEBUG Ram:18 - 5 verify homepage is displayed
+18:31:54,487 DEBUG Ram:12 - CreateOrder -started
+18:31:54,490 DEBUG Ram:13 - 1 open chrome browser
+18:31:54,491 DEBUG Ram:14 - 2 enter username
+18:31:54,491 DEBUG Ram:15 - 3 enter password
+18:31:54,491 DEBUG Ram:16 - 4 click login button
+18:31:54,492 DEBUG Ram:17 - 5 verify homepage is displayed
+18:31:54,492 DEBUG Ram:19 - 6 search for product
+18:31:54,492 DEBUG Ram:20 - 7 add qty
+18:31:54,493 DEBUG Ram:21 - 8 add to cart and proceed with payment
+18:31:54,493  INFO Ram:22 - info msg
+18:31:54,493 ERROR Ram:23 - logging error msgs
+18:34:19,423 DEBUG Ram:14 - searchForProduct -started
+18:34:19,426 DEBUG Ram:15 - 1 open chrome browser
+18:34:19,427 DEBUG Ram:16 - 2 enter user name
+18:34:19,427 DEBUG Ram:17 - 3 enter pwd
+18:34:19,427 DEBUG Ram:18 - 4 click login button
+18:34:19,428 DEBUG Ram:19 - 5 verify home page is dispalyed
+18:34:19,428 DEBUG Ram:20 - search for product samsung mobile
+18:35:38,572 DEBUG Ram:13 - loginTC1 starts
+18:35:38,577 DEBUG Ram:14 - 1 open chrome browser
+18:35:38,577 DEBUG Ram:15 - 2 enter username
+18:35:38,577 DEBUG Ram:16 - 3 enter password
+18:35:38,577 DEBUG Ram:17 - 4 click login button
+18:35:38,578 DEBUG Ram:18 - 5 verify homepage is displayed
+18:35:38,589 DEBUG Ram:12 - CreateOrder -started
+18:35:38,590 DEBUG Ram:13 - 1 open chrome browser
+18:35:38,590 DEBUG Ram:14 - 2 enter username
+18:35:38,591 DEBUG Ram:15 - 3 enter password
+18:35:38,591 DEBUG Ram:16 - 4 click login button
+18:35:38,591 DEBUG Ram:17 - 5 verify homepage is displayed
+18:35:38,592 DEBUG Ram:19 - 6 search for product
+18:35:38,592 DEBUG Ram:20 - 7 add qty
+18:35:38,593 DEBUG Ram:21 - 8 add to cart and proceed with payment
+18:35:38,593  INFO Ram:22 - info msg
+18:35:38,594 ERROR Ram:23 - logging error msgs
+18:35:38,599 DEBUG Ram:14 - searchForProduct -started
+18:35:38,600 DEBUG Ram:15 - 1 open chrome browser
+18:35:38,601 DEBUG Ram:16 - 2 enter user name
+18:35:38,601 DEBUG Ram:17 - 3 enter pwd
+18:35:38,601 DEBUG Ram:18 - 4 click login button
+18:35:38,601 DEBUG Ram:19 - 5 verify home page is dispalyed
+18:35:38,602 DEBUG Ram:20 - search for product samsung mobile
